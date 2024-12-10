@@ -1,0 +1,27 @@
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+  }
+  
+  .navbar {
+    margin-bottom: 20px;
+  }
+  
+  .price {
+    font-size: 1.5rem;
+    color: #27ae60;
+  }
+  
+  .card {
+    border: none;
+  }
+  
+  .card-title {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  
+  footer {
+    background-color: #f8f9fa;
+  }
+  
